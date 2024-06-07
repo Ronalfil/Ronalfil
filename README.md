@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ronalfil
-- 👀 I’m interested in ... Programa
+- 👀 I’m interested in ... Dev
 - 🌱 I’m currently learning ... C++ & Python
 - 💞️ I’m looking to collaborate on ... ERP, game system and chanllange opportunities
 - 📫 How to reach me ... here!
