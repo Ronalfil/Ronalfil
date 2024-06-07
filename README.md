@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ronalfil
 - 👀 I’m interested in ... Programa
 - 🌱 I’m currently learning ... C++ & Python
-- 💞️ I’m looking to collaborate on ... ERP and games system
+- 💞️ I’m looking to collaborate on ... ERP, game system and chanllange opportunities
 - 📫 How to reach me ... here!
-- 😄 Pronouns: ... #Zarpei...
+- 😄 Pronouns: ... He?
 - ⚡ Fun fact: ... I'm finance speciallist
 
 <!---
